@@ -5,10 +5,6 @@
 ![Status Badge](https://img.shields.io/badge/Status-Completed-success)
 ![Score Badge](https://img.shields.io/badge/Score-125%2F100-gold)
 
-## Project Details
-
-For full project requirements, see the [Subject File](./subject.md).
-
 ## What I Learned
 
 Through this challenging multithreading project at 42 School, I developed critical concurrent programming skills:
